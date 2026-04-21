@@ -39,13 +39,9 @@ Final Answer
 Rag/
 │
 ├── Youtube_Project/
-│   ├── rag_using_langchain.ipynb
 │   ├── Youtube_Transcript.ipynb
 │   └── faiss_index/        # Ignored
 │
-├── Document_Loader/
-├── secrets/
-│   └── .env.template
 │
 ├── requirements.txt
 ├── README.md
