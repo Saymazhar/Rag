@@ -1,6 +1,4 @@
-Here’s your **updated, polished, modern README** based on everything you’ve built (Streamlit UI + RAG + YouTube + debugging + improvements). This will make your repo look **serious + production-ready** 👇
 
----
 
 # 📺 YouTube Transcript RAG App
 
@@ -191,7 +189,4 @@ M.Tech CSE – IIIT Delhi
 
 Give it a ⭐ on GitHub — it really helps!
 
----
 
-If you want, I can next:
-👉 make this README **with badges + demo GIF + deploy link (super pro level)**
