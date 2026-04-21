@@ -1,8 +1,26 @@
+# Core LangChain
 langchain
+langchain-core
 langchain-community
+
+# Embeddings
 langchain-huggingface
-langchain-groq
-faiss-cpu
 sentence-transformers
+transformers
+huggingface-hub
+
+# Vector DB
+faiss-cpu
+
+# LLM (Groq)
+langchain-groq
+
+# YouTube transcript
 youtube-transcript-api
+
+# Env management
 python-dotenv
+
+# Utils
+tqdm
+numpy
